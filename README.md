@@ -74,5 +74,5 @@ ros2 run teleop_twist_keyboard teleop_twist_keyboard
 ```
 ## Bugfix
 1. Do not forget to close this monitor before service call 
-![alt text](https://github.com/aitthikit/FUN4_6562/blob/main/close.png?raw=true)
+    ![alt text](https://github.com/aitthikit/FUN4_6562/blob/main/close.png?raw=true)
 
