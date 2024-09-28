@@ -22,7 +22,7 @@ git clone https://github.com/Aitthikit/Fun4_ws.git
 ```
 2. Navigate to the workspace directory :
 ```sh
-cd Fun4_ws
+cd FUN4_6562
 ```
 3. Remove build install log(if it have in workspace) :
 ```sh
