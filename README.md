@@ -18,7 +18,7 @@ Please Install this follower Package on your environment
 ## Setup environment
 1. Clone workspace :
 ```sh
-git clone https://github.com/Aitthikit/Fun4_ws.git
+git clone https://github.com/Aitthikit/FUN4_6562.git
 ```
 2. Navigate to the workspace directory :
 ```sh
