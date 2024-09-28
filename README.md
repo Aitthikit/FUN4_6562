@@ -11,9 +11,9 @@ FUN4: Hello world
 
 
 ## Package and Librarys requirement
-Please Install this follower Package and Library on your environment
+Please make sure your install this follower Package and Library on your environment
 - [Teleop_twist_keyboard for control manipulator](https://github.com/rohbotics/ros2_teleop_keyboard)
-- [Roboticstoolbox for python]([https://github.com/rohbotics/ros2_teleop_keyboard](https://github.com/petercorke/robotics-toolbox-python))
+- [Roboticstoolbox for python](https://github.com/rohbotics/ros2_teleop_keyboard](https://github.com/petercorke/robotics-toolbox-python))
 
 
 ## Setup environment
