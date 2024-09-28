@@ -68,3 +68,7 @@ mode_tele:
 ```sh
 ros2 topic echo /singularity_notify
 ```
+4. Teleop_keyboard to control mode Teleoperation
+```sh
+ros2 run teleop_twist_keyboard teleop_twist_keyboard
+```
