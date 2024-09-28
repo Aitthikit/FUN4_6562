@@ -19,7 +19,7 @@ But it also have this Package in this git
 ## Setup environment
 1. Clone workspace :
 ```sh
-git clone https://github.com/Aitthikit/FUN4_6562.git
+git clone https://github.com/Aitthikit/FUN4_6562.git -b Final
 ```
 2. Navigate to the workspace directory :
 ```sh
