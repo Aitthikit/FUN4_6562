@@ -8,6 +8,8 @@ FUN4: Hello world
 
 ![alt text](https://github.com/aitthikit/FUN4_6562/blob/main/System.png?raw=true)
 ![alt text](https://github.com/aitthikit/FUN4_6562/blob/main/rvizcontrol.png?raw=true)
+![alt text](https://github.com/aitthikit/FUN4_6562/blob/main/workspace1.png?raw=true)
+![alt text](https://github.com/aitthikit/FUN4_6562/blob/main/workspace3d.png?raw=true)
 
 
 ## Package requirement
